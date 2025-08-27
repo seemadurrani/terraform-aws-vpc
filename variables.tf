@@ -13,3 +13,8 @@ variable "azs" {
   type = list(string) 
 }
 
+variable "ami_id" {
+}
+
+variable "instance_type" {
+}
